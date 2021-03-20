@@ -1,5 +1,11 @@
 package com.company;
 
+
+/**
+ * the main class of project
+ * @author Ali Noroozbeigy
+ * @version 1
+ */
 public class Main {
 
     public static void main(String[] args) {
